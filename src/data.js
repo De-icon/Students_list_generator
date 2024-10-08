@@ -651,5 +651,10 @@ export const studentsData = [
         name: "Mubarak Ibrahim Muhammad", 
         Rgn: "1049" 
     },
+{
+ id: 133,
+ name: "David moses shekwoduza"
+ Rgn: "___"
+}
     
 ]
