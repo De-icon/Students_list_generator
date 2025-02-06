@@ -327,11 +327,6 @@ export const studentsData = [
         Rgn: "0716" 
     },
     { 
-        id: 67, 
-        name: "Emmanuel Ordue Lumung", 
-        Rgn: "0775" 
-    },
-    { 
         id: 68, 
         name: "Justice Mark", 
         Rgn: "0059" 
@@ -615,11 +610,6 @@ export const studentsData = [
         id: 124, 
         name: "Usama Sheh", 
         Rgn: "0612" 
-    },
-    { 
-        id: 125, 
-        name: "Kinsman Adavize Omanan", 
-        Rgn: "0120" 
     },
     { 
         id: 126, 
